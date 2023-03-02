@@ -4,11 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Matchmaker Site</title>
-    
     <meta name="description" content="Startup Matchmaker Site for GA">
-    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="stylehw2.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,400i|Merriweather|Oswald" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    
   </head>
   <body>
     
@@ -28,12 +27,13 @@
       </nav>
     </header>
     <aside class="secondary-text">
-      <p>Because two brains <span class="strikeout">taste</span> <span class="underline">are</span> better than one.</p>
+      <p>Because two brains are better than one.</p>
     </aside>
     <section class="hero-area">
       <div class="inset-div">
         <h2>Meet your Match!</h2>
-        <p>Have a great idea for a product, but need help making it a reality? We're here to help. Startup Matchmaker is the best place for designers and developers to find each other.</p>
+        <p>Have a great idea for a product, but need help making it a reality? We're here to help. Startup Matchmaker is the best 
+          place for designers and developers to find each other.</p>
         <a href="#" class="cta main-cta">Create a profile</a>
       </div>
     </section>
